@@ -150,7 +150,6 @@ export function Portfolio() {
                 <SheetRow label="Build" value="Full-stack, after hours" />
                 <SheetRow label="Base" value="Lagos · save point Utopia" />
                 <SheetRow label="Guild" value="GuidepostLabs" />
-                <SheetRow label="School" value="Glorious Vision University" />
                 <li className="border-b border-paper/15 pb-3">
                   <span className="text-xs tracking-widest text-gold uppercase">Passive</span>
                   <ul className="mt-3 flex flex-wrap gap-2">
@@ -456,7 +455,7 @@ export function Portfolio() {
                 <li className="rounded-card border border-paper/15 p-5">
                   <p className="text-xs tracking-widest text-gold uppercase">Education</p>
                   <h3 className="mt-2 font-display text-2xl">Computer Science</h3>
-                  <p className="mt-2 text-sm text-paper/70">Glorious Vision University</p>
+                  <p className="mt-2 text-sm text-paper/70">Graduate</p>
                 </li>
                 <li className="rounded-card border border-paper/15 p-5">
                   <p className="text-xs tracking-widest text-gold uppercase">Day job</p>
