@@ -214,7 +214,7 @@ export const panels = [
   {
     kicker: "Panel 06 · Next",
     title: "To be continued.",
-    body: "IT support specialist by day. Computer science from Glorious Vision University. Google support credentials on the shelf. A quest log that already includes a fraud firewall, a point of sale, an agent, and a runner. The next arc is whatever is missing.",
+    body: "IT support specialist by day. Computer science graduate. Google support credentials on the shelf. A quest log that already includes a fraud firewall, a point of sale, an agent, and a runner. The next arc is whatever is missing.",
   },
 ];
 
