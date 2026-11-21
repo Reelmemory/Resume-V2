@@ -123,7 +123,7 @@ export function Portfolio() {
             <dl className="mt-10 grid grid-cols-3 gap-3 border-t border-line pt-6">
               {[
                 ["08", "Public builds"],
-                ["02", "Hackathon arcs"],
+                ["05", "Hackathon arcs"],
                 ["04", "Chains touched"],
               ].map(([value, label]) => (
                 <div key={label}>
